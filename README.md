@@ -17,3 +17,6 @@ ESCRITO EN GITHUB
 Merge (vuelvo a escribir en GitHub - Escrito en Intellij)
 
 hola que tal?
+
+ahora he creado una rama : Rama1
+
